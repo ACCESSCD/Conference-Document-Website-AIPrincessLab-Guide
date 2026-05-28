@@ -109,7 +109,7 @@ GitHub Pages Free
 GitHub feature that turns your files into a live website 
 Prompt A plain-English instruction you type to Antigravity
 
-REAL EXAMPLE — THE SOAP 2026 PEER REVIEW WORKSHOP
-Project folder: C:\Users\carol\PycharmProjects\SOAP GitHub repo: https://github.com/ACCESSCD/SOAP-Peerreview-workshop Live website: https://accesscd.github.io/SOAP-Peerreview-workshop/ Files included: Banner PNG, CONSORT checklist, STROBE checklist, Taylor & Francis peer review guide, IJOA example trial, Redacted workshop manuscript, Workshop slide deck (PPTX) Faculty added: Dr Jill Mhyre, Dr Ashraf Habib, Dr Ruth Landau, Dr Carolyn Weiniger Total time: Under 30 minutes Code written by user: None
+REAL EXAMPLE — THE SOAP 2026 PEER REVIEW WORKSHOP https://github.com/ACCESSCD/SOAP-Publishing-workshop
+Total time: Under 30 minutes Code written by user: None
 
 =========================================================================================== END OF SKILL DOCUMENT
